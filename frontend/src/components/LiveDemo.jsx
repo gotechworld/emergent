@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Play, Copy, RotateCcw, Sparkles } from 'lucide-react';
+import { Play, Copy, RotateCcw, Sparkles, Target, Globe } from 'lucide-react';
 import { mockData } from '../data/mock';
 
 const LiveDemo = () => {
